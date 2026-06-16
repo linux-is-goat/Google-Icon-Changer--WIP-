@@ -1,9 +1,15 @@
 // ==UserScript==
 // @name         Favicon Changer
-// @namespace    custom
-// @author       daydu3
+// @namespace    http://tampermonkey.net/
 // @version      1.0
+// @description  change the new google favicons to the old ones
+// @author       daydu3
 // @match        *://*/*
 // @grant        none
-// @run          document-start
 // ==/UserScript==
+
+(function() {
+    'use strict';
+
+    // Your code here...
+})();
